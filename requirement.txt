@@ -1,0 +1,9 @@
+pandas
+streamlit
+langchain
+langchain_community
+langchain_google_genai
+faiss-cpu
+openpyxl
+google-cloud
+groq
